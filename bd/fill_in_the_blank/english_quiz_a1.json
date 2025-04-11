@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "milk",
+      "coffee",
+      "chicken",
+      "bread"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "coffee": "/ˈkɒ.fi/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "apple",
+      "rice",
+      "bread",
+      "chicken"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/",
+      "bread": "/bred/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "bread",
+      "tea",
+      "coffee",
+      "rice"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "tea": "/tiː/",
+      "coffee": "/ˈkɒ.fi/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "water",
+      "tea",
+      "milk",
+      "banana"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "tea": "/tiː/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "tea",
+      "banana",
+      "rice",
+      "chicken"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "bread",
+      "juice",
+      "coffee",
+      "tea"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "juice": "/dʒuːs/",
+      "coffee": "/ˈkɒ.fi/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "bread",
+      "milk",
+      "juice",
+      "chicken"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "milk": "/mɪlk/",
+      "juice": "/dʒuːs/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "milk",
+      "bread",
+      "chicken",
+      "coffee"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "bread": "/bred/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "water",
+      "milk",
+      "banana",
+      "tea"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "tea",
+      "milk",
+      "rice",
+      "apple"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "milk": "/mɪlk/",
+      "rice": "/raɪs/",
+      "apple": "/ˈæp.əl/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "apple": "./audio/a1_apple.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "tea",
+      "bread",
+      "chicken",
+      "banana"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "bread": "/bred/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "water",
+      "rice",
+      "bread",
+      "coffee"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "rice": "/raɪs/",
+      "bread": "/bred/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "banana",
+      "coffee",
+      "rice",
+      "water"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "coffee": "/ˈkɒ.fi/",
+      "rice": "/raɪs/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "juice",
+      "tea",
+      "banana",
+      "rice"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "juice": "./audio/a1_juice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "apple",
+      "tea",
+      "rice",
+      "bread"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "tea": "/tiː/",
+      "rice": "/raɪs/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "banana",
+      "milk",
+      "chicken",
+      "coffee"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "coffee",
+      "tea",
+      "milk",
+      "banana"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "tea": "/tiː/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "coffee": "./audio/a1_coffee.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "rice",
+      "milk",
+      "chicken",
+      "tea"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "rice",
+      "banana",
+      "milk",
+      "chicken"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "banana": "/bəˈnɑː.nə/",
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "banana",
+      "milk",
+      "coffee",
+      "water"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "milk": "/mɪlk/",
+      "coffee": "/ˈkɒ.fi/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "juice",
+      "apple",
+      "coffee",
+      "water"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "apple": "/ˈæp.əl/",
+      "coffee": "/ˈkɒ.fi/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "juice": "./audio/a1_juice.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "banana",
+      "apple",
+      "water",
+      "chicken"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "apple": "/ˈæp.əl/",
+      "water": "/ˈwɔː.tər/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "water": "./audio/a1_water.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "tea",
+      "coffee",
+      "banana",
+      "chicken"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "coffee": "/ˈkɒ.fi/",
+      "banana": "/bəˈnɑː.nə/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "chicken",
+      "apple",
+      "banana",
+      "juice"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "apple": "/ˈæp.əl/",
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "bread",
+      "apple",
+      "milk",
+      "tea"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "apple": "/ˈæp.əl/",
+      "milk": "/mɪlk/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "milk",
+      "water",
+      "juice",
+      "rice"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "water": "/ˈwɔː.tər/",
+      "juice": "/dʒuːs/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "water": "./audio/a1_water.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "apple",
+      "chicken",
+      "water",
+      "milk"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "water": "/ˈwɔː.tər/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "water": "./audio/a1_water.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "tea",
+      "bread",
+      "rice",
+      "juice"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "bread": "/bred/",
+      "rice": "/raɪs/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "coffee",
+      "banana",
+      "tea",
+      "juice"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "banana": "/bəˈnɑː.nə/",
+      "tea": "/tiː/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "coffee": "./audio/a1_coffee.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "milk",
+      "chicken",
+      "tea",
+      "juice"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "tea": "/tiː/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "chicken",
+      "banana",
+      "rice",
+      "juice"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "apple",
+      "tea",
+      "milk",
+      "water"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "tea": "/tiː/",
+      "milk": "/mɪlk/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "apple",
+      "rice",
+      "milk",
+      "chicken"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/",
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "rice",
+      "tea",
+      "banana",
+      "milk"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "chicken",
+      "bread",
+      "coffee",
+      "milk"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "bread": "/bred/",
+      "coffee": "/ˈkɒ.fi/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "bread",
+      "tea",
+      "chicken",
+      "water"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "tea": "/tiː/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "chicken",
+      "tea",
+      "banana",
+      "juice"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "rice",
+      "coffee",
+      "milk",
+      "banana"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "coffee": "/ˈkɒ.fi/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "water",
+      "rice",
+      "bread",
+      "banana"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "rice": "/raɪs/",
+      "bread": "/bred/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "milk",
+      "juice",
+      "tea",
+      "bread"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "juice": "/dʒuːs/",
+      "tea": "/tiː/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "banana",
+      "rice",
+      "coffee",
+      "juice"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "coffee": "/ˈkɒ.fi/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "bread",
+      "water",
+      "apple",
+      "milk"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "water": "/ˈwɔː.tər/",
+      "apple": "/ˈæp.əl/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "water": "./audio/a1_water.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "water",
+      "banana",
+      "milk",
+      "juice"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "banana": "/bəˈnɑː.nə/",
+      "milk": "/mɪlk/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "tea",
+      "banana",
+      "juice",
+      "milk"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "rice",
+      "chicken",
+      "water",
+      "coffee"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "water": "/ˈwɔː.tər/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "water": "./audio/a1_water.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "coffee",
+      "tea",
+      "apple",
+      "rice"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "tea": "/tiː/",
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "coffee": "./audio/a1_coffee.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "bread",
+      "tea",
+      "chicken",
+      "milk"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "tea": "/tiː/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "milk",
+      "juice",
+      "water",
+      "banana"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "juice": "/dʒuːs/",
+      "water": "/ˈwɔː.tər/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "water": "./audio/a1_water.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "chicken",
+      "bread",
+      "juice",
+      "water"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "bread": "/bred/",
+      "juice": "/dʒuːs/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "banana",
+      "apple",
+      "coffee",
+      "rice"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "apple": "/ˈæp.əl/",
+      "coffee": "/ˈkɒ.fi/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "juice",
+      "apple",
+      "rice",
+      "bread"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "juice": "./audio/a1_juice.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "milk",
+      "rice",
+      "tea",
+      "water"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "rice": "/raɪs/",
+      "tea": "/tiː/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "coffee",
+      "bread",
+      "milk",
+      "tea"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "bread": "/bred/",
+      "milk": "/mɪlk/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "coffee": "./audio/a1_coffee.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "tea",
+      "rice",
+      "milk",
+      "banana"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "rice": "/raɪs/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "banana",
+      "apple",
+      "juice",
+      "milk"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "apple": "/ˈæp.əl/",
+      "juice": "/dʒuːs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "apple",
+      "banana",
+      "coffee",
+      "bread"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "banana": "/bəˈnɑː.nə/",
+      "coffee": "/ˈkɒ.fi/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "milk",
+      "chicken",
+      "bread",
+      "rice"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "bread": "/bred/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "apple",
+      "tea",
+      "water",
+      "coffee"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "tea": "/tiː/",
+      "water": "/ˈwɔː.tər/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "water": "./audio/a1_water.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "water",
+      "banana",
+      "milk",
+      "bread"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "banana": "/bəˈnɑː.nə/",
+      "milk": "/mɪlk/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "chicken",
+      "banana",
+      "tea",
+      "coffee"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "banana": "/bəˈnɑː.nə/",
+      "tea": "/tiː/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "milk",
+      "coffee",
+      "water",
+      "tea"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "coffee": "/ˈkɒ.fi/",
+      "water": "/ˈwɔː.tər/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "water": "./audio/a1_water.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "banana",
+      "rice",
+      "milk",
+      "coffee"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "milk": "/mɪlk/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "tea",
+      "rice",
+      "water",
+      "milk"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "rice": "/raɪs/",
+      "water": "/ˈwɔː.tər/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "water": "./audio/a1_water.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "milk",
+      "water",
+      "bread",
+      "juice"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "water": "/ˈwɔː.tər/",
+      "bread": "/bred/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "water": "./audio/a1_water.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "tea",
+      "chicken",
+      "bread",
+      "banana"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "bread": "/bred/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "banana",
+      "rice",
+      "chicken",
+      "apple"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "apple": "/ˈæp.əl/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "apple": "./audio/a1_apple.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "milk",
+      "rice",
+      "chicken",
+      "tea"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "rice": "/raɪs/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "chicken",
+      "milk",
+      "bread",
+      "water"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "milk": "/mɪlk/",
+      "bread": "/bred/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "bread",
+      "water",
+      "milk",
+      "banana"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "water": "/ˈwɔː.tər/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "water": "./audio/a1_water.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "rice",
+      "milk",
+      "tea",
+      "juice"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "milk": "/mɪlk/",
+      "tea": "/tiː/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "juice",
+      "bread",
+      "apple",
+      "rice"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "bread": "/bred/",
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "juice": "./audio/a1_juice.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "chicken",
+      "coffee",
+      "apple",
+      "rice"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "coffee": "/ˈkɒ.fi/",
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "tea",
+      "water",
+      "bread",
+      "juice"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "water": "/ˈwɔː.tər/",
+      "bread": "/bred/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "water": "./audio/a1_water.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "banana",
+      "rice",
+      "milk",
+      "chicken"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "milk": "/mɪlk/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "rice",
+      "tea",
+      "milk",
+      "banana"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "tea": "/tiː/",
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "banana",
+      "juice",
+      "chicken",
+      "bread"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "apple",
+      "tea",
+      "water",
+      "bread"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "tea": "/tiː/",
+      "water": "/ˈwɔː.tər/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "water": "./audio/a1_water.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "water",
+      "chicken",
+      "juice",
+      "coffee"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "water": "/ˈwɔː.tər/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "juice": "/dʒuːs/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "water": "./audio/a1_water.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "apple",
+      "chicken",
+      "milk",
+      "water"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "milk": "/mɪlk/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "chicken": "./audio/a1_chicken.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "tea",
+      "bread",
+      "apple",
+      "water"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "bread": "/bred/",
+      "apple": "/ˈæp.əl/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "milk",
+      "banana",
+      "rice",
+      "chicken"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/",
+      "rice": "/raɪs/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "chicken": "./audio/a1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "chicken",
+      "coffee",
+      "tea",
+      "water"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "coffee": "/ˈkɒ.fi/",
+      "tea": "/tiː/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "milk",
+      "rice",
+      "tea",
+      "apple"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "rice": "/raɪs/",
+      "tea": "/tiː/",
+      "apple": "/ˈæp.əl/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "apple": "./audio/a1_apple.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "apple",
+      "coffee",
+      "juice",
+      "water"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "coffee": "/ˈkɒ.fi/",
+      "juice": "/dʒuːs/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "water": "./audio/a1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "apple",
+      "coffee",
+      "bread",
+      "rice"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "coffee": "/ˈkɒ.fi/",
+      "bread": "/bred/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "bread",
+      "water",
+      "juice",
+      "milk"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "water": "/ˈwɔː.tər/",
+      "juice": "/dʒuːs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "bread": "./audio/a1_bread.mp3",
+      "water": "./audio/a1_water.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "banana",
+      "tea",
+      "coffee",
+      "milk"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "tea": "/tiː/",
+      "coffee": "/ˈkɒ.fi/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "coffee",
+      "water",
+      "apple",
+      "rice"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "water": "/ˈwɔː.tər/",
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "coffee": "./audio/a1_coffee.mp3",
+      "water": "./audio/a1_water.mp3",
+      "apple": "./audio/a1_apple.mp3",
+      "rice": "./audio/a1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "apple",
+      "bread",
+      "water",
+      "tea"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "bread": "/bred/",
+      "water": "/ˈwɔː.tər/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "water": "./audio/a1_water.mp3",
+      "tea": "./audio/a1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "rice",
+      "banana",
+      "juice",
+      "milk"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "rice": "./audio/a1_rice.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "apple",
+      "juice",
+      "coffee",
+      "banana"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "juice": "/dʒuːs/",
+      "coffee": "/ˈkɒ.fi/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "banana",
+      "water",
+      "bread",
+      "juice"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "water": "/ˈwɔː.tər/",
+      "bread": "/bred/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "water": "./audio/a1_water.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "apple",
+      "milk",
+      "water",
+      "banana"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "milk": "/mɪlk/",
+      "water": "/ˈwɔː.tər/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "apple": "./audio/a1_apple.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "water": "./audio/a1_water.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "juice",
+      "tea",
+      "milk",
+      "coffee"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "tea": "/tiː/",
+      "milk": "/mɪlk/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "juice": "./audio/a1_juice.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "milk": "./audio/a1_milk.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "milk",
+      "water",
+      "coffee",
+      "juice"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "water": "/ˈwɔː.tər/",
+      "coffee": "/ˈkɒ.fi/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "water": "./audio/a1_water.mp3",
+      "coffee": "./audio/a1_coffee.mp3",
+      "juice": "./audio/a1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "chicken",
+      "water",
+      "juice",
+      "milk"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "water": "/ˈwɔː.tər/",
+      "juice": "/dʒuːs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "chicken": "./audio/a1_chicken.mp3",
+      "water": "./audio/a1_water.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "milk",
+      "bread",
+      "tea",
+      "banana"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "bread": "/bred/",
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "bread": "./audio/a1_bread.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "tea",
+      "banana",
+      "juice",
+      "milk"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "tea": "./audio/a1_tea.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "milk": "./audio/a1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "banana",
+      "juice",
+      "rice",
+      "coffee"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "juice": "/dʒuːs/",
+      "rice": "/raɪs/",
+      "coffee": "/ˈkɒ.fi/"
+    },
+    "option_audio": {
+      "banana": "./audio/a1_banana.mp3",
+      "juice": "./audio/a1_juice.mp3",
+      "rice": "./audio/a1_rice.mp3",
+      "coffee": "./audio/a1_coffee.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "milk",
+      "banana",
+      "tea",
+      "bread"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "banana": "/bəˈnɑː.nə/",
+      "tea": "/tiː/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "milk": "./audio/a1_milk.mp3",
+      "banana": "./audio/a1_banana.mp3",
+      "tea": "./audio/a1_tea.mp3",
+      "bread": "./audio/a1_bread.mp3"
+    }
+  }
+]

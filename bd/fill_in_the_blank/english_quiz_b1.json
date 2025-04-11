@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "airport",
+      "organized",
+      "punctual",
+      "responsible"
+    ],
+    "answer": "punctual",
+    "explanation": "'punctual' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "airport": "/ˈeə.pɔːt/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "responsible": "/rɪˈspɒn.sə.bəl/"
+    },
+    "option_audio": {
+      "airport": "./audio/b1_airport.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "responsible": "./audio/b1_responsible.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "chicken",
+      "tea",
+      "luggage",
+      "ambitious"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "tea": "/tiː/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "ambitious": "/æmˈbɪʃ.əs/"
+    },
+    "option_audio": {
+      "chicken": "./audio/b1_chicken.mp3",
+      "tea": "./audio/b1_tea.mp3",
+      "luggage": "./audio/b1_luggage.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "coffee",
+      "water",
+      "juice",
+      "ticket"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "water": "/ˈwɔː.tər/",
+      "juice": "/dʒuːs/",
+      "ticket": "/ˈtɪk.ɪt/"
+    },
+    "option_audio": {
+      "coffee": "./audio/b1_coffee.mp3",
+      "water": "./audio/b1_water.mp3",
+      "juice": "./audio/b1_juice.mp3",
+      "ticket": "./audio/b1_ticket.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "juice",
+      "passport",
+      "punctual",
+      "milk"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "passport": "/ˈpɑːs.pɔːt/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "juice": "./audio/b1_juice.mp3",
+      "passport": "./audio/b1_passport.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "milk": "./audio/b1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "responsible",
+      "map",
+      "rice",
+      "luggage"
+    ],
+    "answer": "luggage",
+    "explanation": "'luggage' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "map": "/mæp/",
+      "rice": "/raɪs/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "map": "./audio/b1_map.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "luggage": "./audio/b1_luggage.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "curious",
+      "organized",
+      "punctual",
+      "station"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "curious": "/ˈkjʊə.ri.əs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "station": "/ˈsteɪ.ʃən/"
+    },
+    "option_audio": {
+      "curious": "./audio/b1_curious.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "station": "./audio/b1_station.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "tea",
+      "water",
+      "confident",
+      "banana"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "water": "/ˈwɔː.tər/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "tea": "./audio/b1_tea.mp3",
+      "water": "./audio/b1_water.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "banana": "./audio/b1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "ticket",
+      "apple",
+      "rice",
+      "friendly"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "ticket": "/ˈtɪk.ɪt/",
+      "apple": "/ˈæp.əl/",
+      "rice": "/raɪs/",
+      "friendly": "/ˈfrɛnd.li/"
+    },
+    "option_audio": {
+      "ticket": "./audio/b1_ticket.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "friendly": "./audio/b1_friendly.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "milk",
+      "reliable",
+      "passport",
+      "train"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "passport": "/ˈpɑːs.pɔːt/",
+      "train": "/treɪn/"
+    },
+    "option_audio": {
+      "milk": "./audio/b1_milk.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "passport": "./audio/b1_passport.mp3",
+      "train": "./audio/b1_train.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "tea",
+      "generous",
+      "confident",
+      "friendly"
+    ],
+    "answer": "confident",
+    "explanation": "'confident' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "generous": "/ˈdʒen.ər.əs/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "friendly": "/ˈfrɛnd.li/"
+    },
+    "option_audio": {
+      "tea": "./audio/b1_tea.mp3",
+      "generous": "./audio/b1_generous.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "friendly": "./audio/b1_friendly.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "bread",
+      "apple",
+      "banana",
+      "passport"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "apple": "/ˈæp.əl/",
+      "banana": "/bəˈnɑː.nə/",
+      "passport": "/ˈpɑːs.pɔːt/"
+    },
+    "option_audio": {
+      "bread": "./audio/b1_bread.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "passport": "./audio/b1_passport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "reliable",
+      "responsible",
+      "passport",
+      "train"
+    ],
+    "answer": "responsible",
+    "explanation": "'responsible' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "passport": "/ˈpɑːs.pɔːt/",
+      "train": "/treɪn/"
+    },
+    "option_audio": {
+      "reliable": "./audio/b1_reliable.mp3",
+      "responsible": "./audio/b1_responsible.mp3",
+      "passport": "./audio/b1_passport.mp3",
+      "train": "./audio/b1_train.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "hotel",
+      "train",
+      "rice",
+      "ambitious"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "hotel": "/həʊˈtel/",
+      "train": "/treɪn/",
+      "rice": "/raɪs/",
+      "ambitious": "/æmˈbɪʃ.əs/"
+    },
+    "option_audio": {
+      "hotel": "./audio/b1_hotel.mp3",
+      "train": "./audio/b1_train.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "chicken",
+      "friendly",
+      "bread",
+      "hotel"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "friendly": "/ˈfrɛnd.li/",
+      "bread": "/bred/",
+      "hotel": "/həʊˈtel/"
+    },
+    "option_audio": {
+      "chicken": "./audio/b1_chicken.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "hotel": "./audio/b1_hotel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "confident",
+      "airport",
+      "train",
+      "friendly"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "airport": "/ˈeə.pɔːt/",
+      "train": "/treɪn/",
+      "friendly": "/ˈfrɛnd.li/"
+    },
+    "option_audio": {
+      "confident": "./audio/b1_confident.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "train": "./audio/b1_train.mp3",
+      "friendly": "./audio/b1_friendly.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "coffee",
+      "map",
+      "bread",
+      "rice"
+    ],
+    "answer": "map",
+    "explanation": "'map' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "map": "/mæp/",
+      "bread": "/bred/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "coffee": "./audio/b1_coffee.mp3",
+      "map": "./audio/b1_map.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "rice": "./audio/b1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "chicken",
+      "banana",
+      "tea",
+      "map"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "banana": "/bəˈnɑː.nə/",
+      "tea": "/tiː/",
+      "map": "/mæp/"
+    },
+    "option_audio": {
+      "chicken": "./audio/b1_chicken.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "tea": "./audio/b1_tea.mp3",
+      "map": "./audio/b1_map.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "responsible",
+      "bread",
+      "curious",
+      "banana"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "bread": "/bred/",
+      "curious": "/ˈkjʊə.ri.əs/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "curious": "./audio/b1_curious.mp3",
+      "banana": "./audio/b1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "hotel",
+      "confident",
+      "passport",
+      "chicken"
+    ],
+    "answer": "passport",
+    "explanation": "'passport' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "hotel": "/həʊˈtel/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "passport": "/ˈpɑːs.pɔːt/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "hotel": "./audio/b1_hotel.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "passport": "./audio/b1_passport.mp3",
+      "chicken": "./audio/b1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "friendly",
+      "train",
+      "luggage",
+      "water"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "friendly": "/ˈfrɛnd.li/",
+      "train": "/treɪn/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "friendly": "./audio/b1_friendly.mp3",
+      "train": "./audio/b1_train.mp3",
+      "luggage": "./audio/b1_luggage.mp3",
+      "water": "./audio/b1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "friendly",
+      "curious",
+      "punctual",
+      "train"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "friendly": "/ˈfrɛnd.li/",
+      "curious": "/ˈkjʊə.ri.əs/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "train": "/treɪn/"
+    },
+    "option_audio": {
+      "friendly": "./audio/b1_friendly.mp3",
+      "curious": "./audio/b1_curious.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "train": "./audio/b1_train.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "bread",
+      "curious",
+      "banana",
+      "map"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "curious": "/ˈkjʊə.ri.əs/",
+      "banana": "/bəˈnɑː.nə/",
+      "map": "/mæp/"
+    },
+    "option_audio": {
+      "bread": "./audio/b1_bread.mp3",
+      "curious": "./audio/b1_curious.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "map": "./audio/b1_map.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "luggage",
+      "milk",
+      "train",
+      "passport"
+    ],
+    "answer": "luggage",
+    "explanation": "'luggage' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "milk": "/mɪlk/",
+      "train": "/treɪn/",
+      "passport": "/ˈpɑːs.pɔːt/"
+    },
+    "option_audio": {
+      "luggage": "./audio/b1_luggage.mp3",
+      "milk": "./audio/b1_milk.mp3",
+      "train": "./audio/b1_train.mp3",
+      "passport": "./audio/b1_passport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "friendly",
+      "ambitious",
+      "travel",
+      "tea"
+    ],
+    "answer": "ambitious",
+    "explanation": "'ambitious' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "friendly": "/ˈfrɛnd.li/",
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "travel": "/ˈtræv.əl/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "friendly": "./audio/b1_friendly.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "travel": "./audio/b1_travel.mp3",
+      "tea": "./audio/b1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "responsible",
+      "rice",
+      "organized",
+      "chicken"
+    ],
+    "answer": "responsible",
+    "explanation": "'responsible' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "rice": "/raɪs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "chicken": "./audio/b1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "friendly",
+      "punctual",
+      "hotel",
+      "banana"
+    ],
+    "answer": "hotel",
+    "explanation": "'hotel' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "friendly": "/ˈfrɛnd.li/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "hotel": "/həʊˈtel/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "friendly": "./audio/b1_friendly.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "hotel": "./audio/b1_hotel.mp3",
+      "banana": "./audio/b1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "reliable",
+      "responsible",
+      "airport",
+      "train"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "airport": "/ˈeə.pɔːt/",
+      "train": "/treɪn/"
+    },
+    "option_audio": {
+      "reliable": "./audio/b1_reliable.mp3",
+      "responsible": "./audio/b1_responsible.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "train": "./audio/b1_train.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "station",
+      "coffee",
+      "rice",
+      "water"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "station": "/ˈsteɪ.ʃən/",
+      "coffee": "/ˈkɒ.fi/",
+      "rice": "/raɪs/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "station": "./audio/b1_station.mp3",
+      "coffee": "./audio/b1_coffee.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "water": "./audio/b1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "reliable",
+      "punctual",
+      "milk",
+      "travel"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "milk": "/mɪlk/",
+      "travel": "/ˈtræv.əl/"
+    },
+    "option_audio": {
+      "reliable": "./audio/b1_reliable.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "milk": "./audio/b1_milk.mp3",
+      "travel": "./audio/b1_travel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "luggage",
+      "reliable",
+      "creative",
+      "rice"
+    ],
+    "answer": "creative",
+    "explanation": "'creative' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "creative": "/kriˈeɪ.tɪv/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "luggage": "./audio/b1_luggage.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "creative": "./audio/b1_creative.mp3",
+      "rice": "./audio/b1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "juice",
+      "friendly",
+      "bus",
+      "banana"
+    ],
+    "answer": "friendly",
+    "explanation": "'friendly' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "friendly": "/ˈfrɛnd.li/",
+      "bus": "/bʌs/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "juice": "./audio/b1_juice.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "banana": "./audio/b1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "station",
+      "tea",
+      "reliable",
+      "travel"
+    ],
+    "answer": "travel",
+    "explanation": "'travel' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "station": "/ˈsteɪ.ʃən/",
+      "tea": "/tiː/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "travel": "/ˈtræv.əl/"
+    },
+    "option_audio": {
+      "station": "./audio/b1_station.mp3",
+      "tea": "./audio/b1_tea.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "travel": "./audio/b1_travel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "bus",
+      "tea",
+      "creative",
+      "reliable"
+    ],
+    "answer": "bus",
+    "explanation": "'bus' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "bus": "/bʌs/",
+      "tea": "/tiː/",
+      "creative": "/kriˈeɪ.tɪv/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/"
+    },
+    "option_audio": {
+      "bus": "./audio/b1_bus.mp3",
+      "tea": "./audio/b1_tea.mp3",
+      "creative": "./audio/b1_creative.mp3",
+      "reliable": "./audio/b1_reliable.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "travel",
+      "friendly",
+      "coffee",
+      "banana"
+    ],
+    "answer": "travel",
+    "explanation": "'travel' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "travel": "/ˈtræv.əl/",
+      "friendly": "/ˈfrɛnd.li/",
+      "coffee": "/ˈkɒ.fi/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "travel": "./audio/b1_travel.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "coffee": "./audio/b1_coffee.mp3",
+      "banana": "./audio/b1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "juice",
+      "ambitious",
+      "tea",
+      "bread"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "tea": "/tiː/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "juice": "./audio/b1_juice.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "tea": "./audio/b1_tea.mp3",
+      "bread": "./audio/b1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "banana",
+      "train",
+      "bread",
+      "passport"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "train": "/treɪn/",
+      "bread": "/bred/",
+      "passport": "/ˈpɑːs.pɔːt/"
+    },
+    "option_audio": {
+      "banana": "./audio/b1_banana.mp3",
+      "train": "./audio/b1_train.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "passport": "./audio/b1_passport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "airport",
+      "confident",
+      "friendly",
+      "creative"
+    ],
+    "answer": "friendly",
+    "explanation": "'friendly' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "airport": "/ˈeə.pɔːt/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "friendly": "/ˈfrɛnd.li/",
+      "creative": "/kriˈeɪ.tɪv/"
+    },
+    "option_audio": {
+      "airport": "./audio/b1_airport.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "creative": "./audio/b1_creative.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "responsible",
+      "apple",
+      "station",
+      "confident"
+    ],
+    "answer": "responsible",
+    "explanation": "'responsible' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "apple": "/ˈæp.əl/",
+      "station": "/ˈsteɪ.ʃən/",
+      "confident": "/ˈkɒn.fɪ.dənt/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "station": "./audio/b1_station.mp3",
+      "confident": "./audio/b1_confident.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "bread",
+      "travel",
+      "juice",
+      "luggage"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "bread": "/bred/",
+      "travel": "/ˈtræv.əl/",
+      "juice": "/dʒuːs/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/"
+    },
+    "option_audio": {
+      "bread": "./audio/b1_bread.mp3",
+      "travel": "./audio/b1_travel.mp3",
+      "juice": "./audio/b1_juice.mp3",
+      "luggage": "./audio/b1_luggage.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "friendly",
+      "train",
+      "map",
+      "hotel"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "friendly": "/ˈfrɛnd.li/",
+      "train": "/treɪn/",
+      "map": "/mæp/",
+      "hotel": "/həʊˈtel/"
+    },
+    "option_audio": {
+      "friendly": "./audio/b1_friendly.mp3",
+      "train": "./audio/b1_train.mp3",
+      "map": "./audio/b1_map.mp3",
+      "hotel": "./audio/b1_hotel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "tea",
+      "rice",
+      "juice",
+      "chicken"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "rice": "/raɪs/",
+      "juice": "/dʒuːs/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "tea": "./audio/b1_tea.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "juice": "./audio/b1_juice.mp3",
+      "chicken": "./audio/b1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "passport",
+      "bus",
+      "travel",
+      "airport"
+    ],
+    "answer": "travel",
+    "explanation": "'travel' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "passport": "/ˈpɑːs.pɔːt/",
+      "bus": "/bʌs/",
+      "travel": "/ˈtræv.əl/",
+      "airport": "/ˈeə.pɔːt/"
+    },
+    "option_audio": {
+      "passport": "./audio/b1_passport.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "travel": "./audio/b1_travel.mp3",
+      "airport": "./audio/b1_airport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "luggage",
+      "train",
+      "creative",
+      "rice"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "train": "/treɪn/",
+      "creative": "/kriˈeɪ.tɪv/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "luggage": "./audio/b1_luggage.mp3",
+      "train": "./audio/b1_train.mp3",
+      "creative": "./audio/b1_creative.mp3",
+      "rice": "./audio/b1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "organized",
+      "airport",
+      "generous",
+      "map"
+    ],
+    "answer": "map",
+    "explanation": "'map' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "airport": "/ˈeə.pɔːt/",
+      "generous": "/ˈdʒen.ər.əs/",
+      "map": "/mæp/"
+    },
+    "option_audio": {
+      "organized": "./audio/b1_organized.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "generous": "./audio/b1_generous.mp3",
+      "map": "./audio/b1_map.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "rice",
+      "organized",
+      "bus",
+      "ticket"
+    ],
+    "answer": "organized",
+    "explanation": "'organized' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "bus": "/bʌs/",
+      "ticket": "/ˈtɪk.ɪt/"
+    },
+    "option_audio": {
+      "rice": "./audio/b1_rice.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "ticket": "./audio/b1_ticket.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "bus",
+      "map",
+      "organized",
+      "juice"
+    ],
+    "answer": "bus",
+    "explanation": "'bus' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "bus": "/bʌs/",
+      "map": "/mæp/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "bus": "./audio/b1_bus.mp3",
+      "map": "./audio/b1_map.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "juice": "./audio/b1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to routines?",
+    "options": [
+      "bus",
+      "organized",
+      "juice",
+      "reliable"
+    ],
+    "answer": "organized",
+    "explanation": "'organized' is commonly associated with routines.",
+    "topic": "Daily Life",
+    "subtopic": "Routines",
+    "option_transcriptions": {
+      "bus": "/bʌs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "juice": "/dʒuːs/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/"
+    },
+    "option_audio": {
+      "bus": "./audio/b1_bus.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "juice": "./audio/b1_juice.mp3",
+      "reliable": "./audio/b1_reliable.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "station",
+      "apple",
+      "organized",
+      "punctual"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "station": "/ˈsteɪ.ʃən/",
+      "apple": "/ˈæp.əl/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/"
+    },
+    "option_audio": {
+      "station": "./audio/b1_station.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "punctual": "./audio/b1_punctual.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "station",
+      "confident",
+      "friendly",
+      "curious"
+    ],
+    "answer": "confident",
+    "explanation": "'confident' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "station": "/ˈsteɪ.ʃən/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "friendly": "/ˈfrɛnd.li/",
+      "curious": "/ˈkjʊə.ri.əs/"
+    },
+    "option_audio": {
+      "station": "./audio/b1_station.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "curious": "./audio/b1_curious.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "milk",
+      "rice",
+      "apple",
+      "juice"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "rice": "/raɪs/",
+      "apple": "/ˈæp.əl/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "milk": "./audio/b1_milk.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "juice": "./audio/b1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "friendly",
+      "rice",
+      "organized",
+      "water"
+    ],
+    "answer": "water",
+    "explanation": "'water' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "friendly": "/ˈfrɛnd.li/",
+      "rice": "/raɪs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "friendly": "./audio/b1_friendly.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "water": "./audio/b1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "responsible",
+      "creative",
+      "organized",
+      "apple"
+    ],
+    "answer": "organized",
+    "explanation": "'organized' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "creative": "/kriˈeɪ.tɪv/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "apple": "/ˈæp.əl/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "creative": "./audio/b1_creative.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "apple": "./audio/b1_apple.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "station",
+      "coffee",
+      "confident",
+      "water"
+    ],
+    "answer": "confident",
+    "explanation": "'confident' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "station": "/ˈsteɪ.ʃən/",
+      "coffee": "/ˈkɒ.fi/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "station": "./audio/b1_station.mp3",
+      "coffee": "./audio/b1_coffee.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "water": "./audio/b1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "confident",
+      "airport",
+      "map",
+      "chicken"
+    ],
+    "answer": "airport",
+    "explanation": "'airport' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "airport": "/ˈeə.pɔːt/",
+      "map": "/mæp/",
+      "chicken": "/ˈtʃɪk.ɪn/"
+    },
+    "option_audio": {
+      "confident": "./audio/b1_confident.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "map": "./audio/b1_map.mp3",
+      "chicken": "./audio/b1_chicken.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "airport",
+      "chicken",
+      "coffee",
+      "creative"
+    ],
+    "answer": "coffee",
+    "explanation": "'coffee' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "airport": "/ˈeə.pɔːt/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "coffee": "/ˈkɒ.fi/",
+      "creative": "/kriˈeɪ.tɪv/"
+    },
+    "option_audio": {
+      "airport": "./audio/b1_airport.mp3",
+      "chicken": "./audio/b1_chicken.mp3",
+      "coffee": "./audio/b1_coffee.mp3",
+      "creative": "./audio/b1_creative.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "organized",
+      "water",
+      "rice",
+      "bread"
+    ],
+    "answer": "bread",
+    "explanation": "'bread' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "water": "/ˈwɔː.tər/",
+      "rice": "/raɪs/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "organized": "./audio/b1_organized.mp3",
+      "water": "./audio/b1_water.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "bread": "./audio/b1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "tea",
+      "banana",
+      "station",
+      "airport"
+    ],
+    "answer": "tea",
+    "explanation": "'tea' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "banana": "/bəˈnɑː.nə/",
+      "station": "/ˈsteɪ.ʃən/",
+      "airport": "/ˈeə.pɔːt/"
+    },
+    "option_audio": {
+      "tea": "./audio/b1_tea.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "station": "./audio/b1_station.mp3",
+      "airport": "./audio/b1_airport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "chicken",
+      "water",
+      "punctual",
+      "juice"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "water": "/ˈwɔː.tər/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "chicken": "./audio/b1_chicken.mp3",
+      "water": "./audio/b1_water.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "juice": "./audio/b1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "responsible",
+      "luggage",
+      "milk",
+      "map"
+    ],
+    "answer": "map",
+    "explanation": "'map' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "milk": "/mɪlk/",
+      "map": "/mæp/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "luggage": "./audio/b1_luggage.mp3",
+      "milk": "./audio/b1_milk.mp3",
+      "map": "./audio/b1_map.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "generous",
+      "reliable",
+      "map",
+      "creative"
+    ],
+    "answer": "reliable",
+    "explanation": "'reliable' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "generous": "/ˈdʒen.ər.əs/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "map": "/mæp/",
+      "creative": "/kriˈeɪ.tɪv/"
+    },
+    "option_audio": {
+      "generous": "./audio/b1_generous.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "map": "./audio/b1_map.mp3",
+      "creative": "./audio/b1_creative.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "generous",
+      "bread",
+      "map",
+      "milk"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "generous": "/ˈdʒen.ər.əs/",
+      "bread": "/bred/",
+      "map": "/mæp/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "generous": "./audio/b1_generous.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "map": "./audio/b1_map.mp3",
+      "milk": "./audio/b1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to holidays?",
+    "options": [
+      "juice",
+      "generous",
+      "ambitious",
+      "hotel"
+    ],
+    "answer": "generous",
+    "explanation": "'generous' is commonly associated with holidays.",
+    "topic": "Travel",
+    "subtopic": "Holidays",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "generous": "/ˈdʒen.ər.əs/",
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "hotel": "/həʊˈtel/"
+    },
+    "option_audio": {
+      "juice": "./audio/b1_juice.mp3",
+      "generous": "./audio/b1_generous.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "hotel": "./audio/b1_hotel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "creative",
+      "travel",
+      "friendly",
+      "milk"
+    ],
+    "answer": "friendly",
+    "explanation": "'friendly' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "creative": "/kriˈeɪ.tɪv/",
+      "travel": "/ˈtræv.əl/",
+      "friendly": "/ˈfrɛnd.li/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "creative": "./audio/b1_creative.mp3",
+      "travel": "./audio/b1_travel.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "milk": "./audio/b1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "juice",
+      "chicken",
+      "creative",
+      "train"
+    ],
+    "answer": "train",
+    "explanation": "'train' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "juice": "/dʒuːs/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "creative": "/kriˈeɪ.tɪv/",
+      "train": "/treɪn/"
+    },
+    "option_audio": {
+      "juice": "./audio/b1_juice.mp3",
+      "chicken": "./audio/b1_chicken.mp3",
+      "creative": "./audio/b1_creative.mp3",
+      "train": "./audio/b1_train.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "curious",
+      "water",
+      "friendly",
+      "hotel"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "curious": "/ˈkjʊə.ri.əs/",
+      "water": "/ˈwɔː.tər/",
+      "friendly": "/ˈfrɛnd.li/",
+      "hotel": "/həʊˈtel/"
+    },
+    "option_audio": {
+      "curious": "./audio/b1_curious.mp3",
+      "water": "./audio/b1_water.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "hotel": "./audio/b1_hotel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "train",
+      "water",
+      "travel",
+      "organized"
+    ],
+    "answer": "organized",
+    "explanation": "'organized' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "train": "/treɪn/",
+      "water": "/ˈwɔː.tər/",
+      "travel": "/ˈtræv.əl/",
+      "organized": "/ˈɔː.ɡə.naɪzd/"
+    },
+    "option_audio": {
+      "train": "./audio/b1_train.mp3",
+      "water": "./audio/b1_water.mp3",
+      "travel": "./audio/b1_travel.mp3",
+      "organized": "./audio/b1_organized.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "tea",
+      "curious",
+      "reliable",
+      "juice"
+    ],
+    "answer": "reliable",
+    "explanation": "'reliable' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "curious": "/ˈkjʊə.ri.əs/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "tea": "./audio/b1_tea.mp3",
+      "curious": "./audio/b1_curious.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "juice": "./audio/b1_juice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "station",
+      "chicken",
+      "luggage",
+      "organized"
+    ],
+    "answer": "chicken",
+    "explanation": "'chicken' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "station": "/ˈsteɪ.ʃən/",
+      "chicken": "/ˈtʃɪk.ɪn/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "organized": "/ˈɔː.ɡə.naɪzd/"
+    },
+    "option_audio": {
+      "station": "./audio/b1_station.mp3",
+      "chicken": "./audio/b1_chicken.mp3",
+      "luggage": "./audio/b1_luggage.mp3",
+      "organized": "./audio/b1_organized.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "rice",
+      "banana",
+      "coffee",
+      "tea"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "banana": "/bəˈnɑː.nə/",
+      "coffee": "/ˈkɒ.fi/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "rice": "./audio/b1_rice.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "coffee": "./audio/b1_coffee.mp3",
+      "tea": "./audio/b1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "punctual",
+      "rice",
+      "organized",
+      "airport"
+    ],
+    "answer": "airport",
+    "explanation": "'airport' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "rice": "/raɪs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "airport": "/ˈeə.pɔːt/"
+    },
+    "option_audio": {
+      "punctual": "./audio/b1_punctual.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "airport": "./audio/b1_airport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "coffee",
+      "organized",
+      "train",
+      "station"
+    ],
+    "answer": "station",
+    "explanation": "'station' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "train": "/treɪn/",
+      "station": "/ˈsteɪ.ʃən/"
+    },
+    "option_audio": {
+      "coffee": "./audio/b1_coffee.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "train": "./audio/b1_train.mp3",
+      "station": "./audio/b1_station.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "reliable",
+      "ambitious",
+      "airport",
+      "map"
+    ],
+    "answer": "ambitious",
+    "explanation": "'ambitious' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "airport": "/ˈeə.pɔːt/",
+      "map": "/mæp/"
+    },
+    "option_audio": {
+      "reliable": "./audio/b1_reliable.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "map": "./audio/b1_map.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "tea",
+      "rice",
+      "ticket",
+      "map"
+    ],
+    "answer": "ticket",
+    "explanation": "'ticket' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "tea": "/tiː/",
+      "rice": "/raɪs/",
+      "ticket": "/ˈtɪk.ɪt/",
+      "map": "/mæp/"
+    },
+    "option_audio": {
+      "tea": "./audio/b1_tea.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "ticket": "./audio/b1_ticket.mp3",
+      "map": "./audio/b1_map.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "passport",
+      "travel",
+      "milk",
+      "ticket"
+    ],
+    "answer": "travel",
+    "explanation": "'travel' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "passport": "/ˈpɑːs.pɔːt/",
+      "travel": "/ˈtræv.əl/",
+      "milk": "/mɪlk/",
+      "ticket": "/ˈtɪk.ɪt/"
+    },
+    "option_audio": {
+      "passport": "./audio/b1_passport.mp3",
+      "travel": "./audio/b1_travel.mp3",
+      "milk": "./audio/b1_milk.mp3",
+      "ticket": "./audio/b1_ticket.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "coffee",
+      "bus",
+      "milk",
+      "rice"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "coffee": "/ˈkɒ.fi/",
+      "bus": "/bʌs/",
+      "milk": "/mɪlk/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "coffee": "./audio/b1_coffee.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "milk": "./audio/b1_milk.mp3",
+      "rice": "./audio/b1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to meals?",
+    "options": [
+      "rice",
+      "curious",
+      "apple",
+      "hotel"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with meals.",
+    "topic": "Food",
+    "subtopic": "Meals",
+    "option_transcriptions": {
+      "rice": "/raɪs/",
+      "curious": "/ˈkjʊə.ri.əs/",
+      "apple": "/ˈæp.əl/",
+      "hotel": "/həʊˈtel/"
+    },
+    "option_audio": {
+      "rice": "./audio/b1_rice.mp3",
+      "curious": "./audio/b1_curious.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "hotel": "./audio/b1_hotel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "confident",
+      "apple",
+      "banana",
+      "airport"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "apple": "/ˈæp.əl/",
+      "banana": "/bəˈnɑː.nə/",
+      "airport": "/ˈeə.pɔːt/"
+    },
+    "option_audio": {
+      "confident": "./audio/b1_confident.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "airport": "./audio/b1_airport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "creative",
+      "friendly",
+      "responsible",
+      "station"
+    ],
+    "answer": "friendly",
+    "explanation": "'friendly' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "creative": "/kriˈeɪ.tɪv/",
+      "friendly": "/ˈfrɛnd.li/",
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "station": "/ˈsteɪ.ʃən/"
+    },
+    "option_audio": {
+      "creative": "./audio/b1_creative.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "responsible": "./audio/b1_responsible.mp3",
+      "station": "./audio/b1_station.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "creative",
+      "station",
+      "train",
+      "ticket"
+    ],
+    "answer": "ticket",
+    "explanation": "'ticket' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "creative": "/kriˈeɪ.tɪv/",
+      "station": "/ˈsteɪ.ʃən/",
+      "train": "/treɪn/",
+      "ticket": "/ˈtɪk.ɪt/"
+    },
+    "option_audio": {
+      "creative": "./audio/b1_creative.mp3",
+      "station": "./audio/b1_station.mp3",
+      "train": "./audio/b1_train.mp3",
+      "ticket": "./audio/b1_ticket.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to restaurants?",
+    "options": [
+      "milk",
+      "generous",
+      "water",
+      "punctual"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with restaurants.",
+    "topic": "Food",
+    "subtopic": "Restaurants",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "generous": "/ˈdʒen.ər.əs/",
+      "water": "/ˈwɔː.tər/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/"
+    },
+    "option_audio": {
+      "milk": "./audio/b1_milk.mp3",
+      "generous": "./audio/b1_generous.mp3",
+      "water": "./audio/b1_water.mp3",
+      "punctual": "./audio/b1_punctual.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "apple",
+      "station",
+      "curious",
+      "generous"
+    ],
+    "answer": "curious",
+    "explanation": "'curious' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "station": "/ˈsteɪ.ʃən/",
+      "curious": "/ˈkjʊə.ri.əs/",
+      "generous": "/ˈdʒen.ər.əs/"
+    },
+    "option_audio": {
+      "apple": "./audio/b1_apple.mp3",
+      "station": "./audio/b1_station.mp3",
+      "curious": "./audio/b1_curious.mp3",
+      "generous": "./audio/b1_generous.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "milk",
+      "organized",
+      "bus",
+      "ticket"
+    ],
+    "answer": "milk",
+    "explanation": "'milk' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "milk": "/mɪlk/",
+      "organized": "/ˈɔː.ɡə.naɪzd/",
+      "bus": "/bʌs/",
+      "ticket": "/ˈtɪk.ɪt/"
+    },
+    "option_audio": {
+      "milk": "./audio/b1_milk.mp3",
+      "organized": "./audio/b1_organized.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "ticket": "./audio/b1_ticket.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "passport",
+      "banana",
+      "generous",
+      "tea"
+    ],
+    "answer": "passport",
+    "explanation": "'passport' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "passport": "/ˈpɑːs.pɔːt/",
+      "banana": "/bəˈnɑː.nə/",
+      "generous": "/ˈdʒen.ər.əs/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "passport": "./audio/b1_passport.mp3",
+      "banana": "./audio/b1_banana.mp3",
+      "generous": "./audio/b1_generous.mp3",
+      "tea": "./audio/b1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to family?",
+    "options": [
+      "ambitious",
+      "hotel",
+      "ticket",
+      "curious"
+    ],
+    "answer": "hotel",
+    "explanation": "'hotel' is commonly associated with family.",
+    "topic": "People",
+    "subtopic": "Family",
+    "option_transcriptions": {
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "hotel": "/həʊˈtel/",
+      "ticket": "/ˈtɪk.ɪt/",
+      "curious": "/ˈkjʊə.ri.əs/"
+    },
+    "option_audio": {
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "hotel": "./audio/b1_hotel.mp3",
+      "ticket": "./audio/b1_ticket.mp3",
+      "curious": "./audio/b1_curious.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to directions?",
+    "options": [
+      "train",
+      "confident",
+      "responsible",
+      "hotel"
+    ],
+    "answer": "hotel",
+    "explanation": "'hotel' is commonly associated with directions.",
+    "topic": "Travel",
+    "subtopic": "Directions",
+    "option_transcriptions": {
+      "train": "/treɪn/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "hotel": "/həʊˈtel/"
+    },
+    "option_audio": {
+      "train": "./audio/b1_train.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "responsible": "./audio/b1_responsible.mp3",
+      "hotel": "./audio/b1_hotel.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "apple",
+      "confident",
+      "rice",
+      "bread"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "apple": "/ˈæp.əl/",
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "rice": "/raɪs/",
+      "bread": "/bred/"
+    },
+    "option_audio": {
+      "apple": "./audio/b1_apple.mp3",
+      "confident": "./audio/b1_confident.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "bread": "./audio/b1_bread.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to groceries?",
+    "options": [
+      "banana",
+      "bus",
+      "rice",
+      "organized"
+    ],
+    "answer": "bus",
+    "explanation": "'bus' is commonly associated with groceries.",
+    "topic": "Shopping",
+    "subtopic": "Groceries",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "bus": "/bʌs/",
+      "rice": "/raɪs/",
+      "organized": "/ˈɔː.ɡə.naɪzd/"
+    },
+    "option_audio": {
+      "banana": "./audio/b1_banana.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "organized": "./audio/b1_organized.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "reliable",
+      "bread",
+      "ambitious",
+      "passport"
+    ],
+    "answer": "reliable",
+    "explanation": "'reliable' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "bread": "/bred/",
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "passport": "/ˈpɑːs.pɔːt/"
+    },
+    "option_audio": {
+      "reliable": "./audio/b1_reliable.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "passport": "./audio/b1_passport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "confident",
+      "station",
+      "ambitious",
+      "tea"
+    ],
+    "answer": "station",
+    "explanation": "'station' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "station": "/ˈsteɪ.ʃən/",
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "tea": "/tiː/"
+    },
+    "option_audio": {
+      "confident": "./audio/b1_confident.mp3",
+      "station": "./audio/b1_station.mp3",
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "tea": "./audio/b1_tea.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "train",
+      "generous",
+      "rice",
+      "friendly"
+    ],
+    "answer": "generous",
+    "explanation": "'generous' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "train": "/treɪn/",
+      "generous": "/ˈdʒen.ər.əs/",
+      "rice": "/raɪs/",
+      "friendly": "/ˈfrɛnd.li/"
+    },
+    "option_audio": {
+      "train": "./audio/b1_train.mp3",
+      "generous": "./audio/b1_generous.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "friendly": "./audio/b1_friendly.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to household?",
+    "options": [
+      "confident",
+      "ticket",
+      "map",
+      "rice"
+    ],
+    "answer": "confident",
+    "explanation": "'confident' is commonly associated with household.",
+    "topic": "Daily Life",
+    "subtopic": "Household",
+    "option_transcriptions": {
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "ticket": "/ˈtɪk.ɪt/",
+      "map": "/mæp/",
+      "rice": "/raɪs/"
+    },
+    "option_audio": {
+      "confident": "./audio/b1_confident.mp3",
+      "ticket": "./audio/b1_ticket.mp3",
+      "map": "./audio/b1_map.mp3",
+      "rice": "./audio/b1_rice.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to clothes?",
+    "options": [
+      "confident",
+      "reliable",
+      "luggage",
+      "friendly"
+    ],
+    "answer": "friendly",
+    "explanation": "'friendly' is commonly associated with clothes.",
+    "topic": "Shopping",
+    "subtopic": "Clothes",
+    "option_transcriptions": {
+      "confident": "/ˈkɒn.fɪ.dənt/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "friendly": "/ˈfrɛnd.li/"
+    },
+    "option_audio": {
+      "confident": "./audio/b1_confident.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "luggage": "./audio/b1_luggage.mp3",
+      "friendly": "./audio/b1_friendly.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to prices?",
+    "options": [
+      "creative",
+      "airport",
+      "bread",
+      "banana"
+    ],
+    "answer": "banana",
+    "explanation": "'banana' is commonly associated with prices.",
+    "topic": "Shopping",
+    "subtopic": "Prices",
+    "option_transcriptions": {
+      "creative": "/kriˈeɪ.tɪv/",
+      "airport": "/ˈeə.pɔːt/",
+      "bread": "/bred/",
+      "banana": "/bəˈnɑː.nə/"
+    },
+    "option_audio": {
+      "creative": "./audio/b1_creative.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "banana": "./audio/b1_banana.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to time?",
+    "options": [
+      "ambitious",
+      "ticket",
+      "airport",
+      "punctual"
+    ],
+    "answer": "punctual",
+    "explanation": "'punctual' is commonly associated with time.",
+    "topic": "Daily Life",
+    "subtopic": "Time",
+    "option_transcriptions": {
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "ticket": "/ˈtɪk.ɪt/",
+      "airport": "/ˈeə.pɔːt/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/"
+    },
+    "option_audio": {
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "ticket": "./audio/b1_ticket.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "punctual": "./audio/b1_punctual.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "banana",
+      "apple",
+      "bus",
+      "milk"
+    ],
+    "answer": "apple",
+    "explanation": "'apple' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "banana": "/bəˈnɑː.nə/",
+      "apple": "/ˈæp.əl/",
+      "bus": "/bʌs/",
+      "milk": "/mɪlk/"
+    },
+    "option_audio": {
+      "banana": "./audio/b1_banana.mp3",
+      "apple": "./audio/b1_apple.mp3",
+      "bus": "./audio/b1_bus.mp3",
+      "milk": "./audio/b1_milk.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "responsible",
+      "airport",
+      "reliable",
+      "creative"
+    ],
+    "answer": "creative",
+    "explanation": "'creative' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "airport": "/ˈeə.pɔːt/",
+      "reliable": "/rɪˈlaɪ.ə.bəl/",
+      "creative": "/kriˈeɪ.tɪv/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "airport": "./audio/b1_airport.mp3",
+      "reliable": "./audio/b1_reliable.mp3",
+      "creative": "./audio/b1_creative.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to transport?",
+    "options": [
+      "travel",
+      "friendly",
+      "rice",
+      "passport"
+    ],
+    "answer": "rice",
+    "explanation": "'rice' is commonly associated with transport.",
+    "topic": "Travel",
+    "subtopic": "Transport",
+    "option_transcriptions": {
+      "travel": "/ˈtræv.əl/",
+      "friendly": "/ˈfrɛnd.li/",
+      "rice": "/raɪs/",
+      "passport": "/ˈpɑːs.pɔːt/"
+    },
+    "option_audio": {
+      "travel": "./audio/b1_travel.mp3",
+      "friendly": "./audio/b1_friendly.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "passport": "./audio/b1_passport.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to friends?",
+    "options": [
+      "ambitious",
+      "punctual",
+      "juice",
+      "curious"
+    ],
+    "answer": "juice",
+    "explanation": "'juice' is commonly associated with friends.",
+    "topic": "People",
+    "subtopic": "Friends",
+    "option_transcriptions": {
+      "ambitious": "/æmˈbɪʃ.əs/",
+      "punctual": "/ˈpʌŋk.tʃu.əl/",
+      "juice": "/dʒuːs/",
+      "curious": "/ˈkjʊə.ri.əs/"
+    },
+    "option_audio": {
+      "ambitious": "./audio/b1_ambitious.mp3",
+      "punctual": "./audio/b1_punctual.mp3",
+      "juice": "./audio/b1_juice.mp3",
+      "curious": "./audio/b1_curious.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to cooking?",
+    "options": [
+      "train",
+      "rice",
+      "creative",
+      "water"
+    ],
+    "answer": "creative",
+    "explanation": "'creative' is commonly associated with cooking.",
+    "topic": "Food",
+    "subtopic": "Cooking",
+    "option_transcriptions": {
+      "train": "/treɪn/",
+      "rice": "/raɪs/",
+      "creative": "/kriˈeɪ.tɪv/",
+      "water": "/ˈwɔː.tər/"
+    },
+    "option_audio": {
+      "train": "./audio/b1_train.mp3",
+      "rice": "./audio/b1_rice.mp3",
+      "creative": "./audio/b1_creative.mp3",
+      "water": "./audio/b1_water.mp3"
+    }
+  },
+  {
+    "question": "Which word is related to jobs?",
+    "options": [
+      "responsible",
+      "luggage",
+      "bread",
+      "juice"
+    ],
+    "answer": "luggage",
+    "explanation": "'luggage' is commonly associated with jobs.",
+    "topic": "People",
+    "subtopic": "Jobs",
+    "option_transcriptions": {
+      "responsible": "/rɪˈspɒn.sə.bəl/",
+      "luggage": "/ˈlʌɡ.ɪdʒ/",
+      "bread": "/bred/",
+      "juice": "/dʒuːs/"
+    },
+    "option_audio": {
+      "responsible": "./audio/b1_responsible.mp3",
+      "luggage": "./audio/b1_luggage.mp3",
+      "bread": "./audio/b1_bread.mp3",
+      "juice": "./audio/b1_juice.mp3"
+    }
+  }
+]
